@@ -3801,8 +3801,14 @@ input, select, textarea {
 			color: inherit;
 			border-bottom-color: rgba(255, 255, 255, 0.5);
 			color: #ffffff;
+			border:none;
 		}
-
+		#header .badge-appStore{
+			width: 8.6em;
+		}
+		#header .badge-googlePlay{
+			width: 9.6em;
+		}
 		#header strong, #header b {
 			color: #ffffff;
 		}
